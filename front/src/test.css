@@ -1,0 +1,31 @@
+.container
+{
+    background-color:rgb(208, 221, 233);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    text-align: center;
+
+    
+}
+.col-6
+{
+    color:brown;
+    font-size: small;
+    text-decoration: solid;
+    text-align: center;
+    content: center;
+    padding: 70px;
+    text-shadow: 10pc;
+
+}
+
+
+
+
+
+
+    
+
+    
+    
